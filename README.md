@@ -1,0 +1,2 @@
+# Puppies
+Kruschke's exercises
